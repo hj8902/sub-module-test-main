@@ -1,2 +1,2 @@
-# sub_module_test_main
+# sub-module-test-main
 For testing sub module with main
